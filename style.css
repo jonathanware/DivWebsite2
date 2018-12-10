@@ -1,3 +1,6 @@
+body {
+    background-image: url(circuit.png);
+}
 
 .container {
     width: 80%;
@@ -6,8 +9,10 @@
 }
 
 .headertop {
-    height: 20px;
+    height: 60px;
     background-color:crimson;
+    font-family: 'Mountains of Christmas', cursive;
+    color: white;
 }
 
 .headerbottom {
@@ -27,6 +32,7 @@
     width: 60%;
     background-color: darkgreen;
     float:left;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .columnright {
@@ -40,5 +46,4 @@
     height: 40px;
     background-color: #1080b2;
     clear:left;
-    font-family: 'Mission Gothic'
 }
